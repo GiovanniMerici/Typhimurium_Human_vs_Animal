@@ -26,7 +26,7 @@ For modelling, missing/invalid alleles and alleles flagged as truncated are code
 
 - **Repository:** [GiovanniMerici/Typhimurium_Human_vs_Animal](https://github.com/GiovanniMerici/Typhimurium_Human_vs_Animal)
 - **Main notebook:** `pipeline.ipynb`
-- **Supporting data and results:** [Salmonella_typhimurium_NA on Google Drive](https://drive.google.com/drive/folders/1LbWAsNppZAY4DYJSTDGuP98M1VtKn7Av)
+- **Supporting data and results:** [Salmonella_typhimurium_NA on Google Drive](https://drive.google.com/drive/folders/1LbWAsNppZAY4DYJSTDGuP98M1VtKn7Av?usp=sharing)
 
 The supporting files are maintained in the Drive project folder. Access depends on its sharing permissions. Download the inputs needed for the sections you intend to run and preserve their folder names. **Cloning the GitHub repository does not download files linked from Google Drive.**
 
